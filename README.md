@@ -17,5 +17,5 @@ Once Matlab is installed, you can simply open the project and run it as is.
 
 ## Results
 
-This code along with an analysis of this code earned me a mark of 95%.
+This code along with an analysis of this code (available on request) earned me a mark of 95%.
 
